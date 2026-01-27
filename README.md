@@ -6,5 +6,5 @@ A fun game written in C.
 ## Comiple and Run
 ```bash
 gcc password_cracking_game.c -o password_cracking_game
-./passsword_cracking_game boyle bir readme
+./passsword_cracking_game
 
