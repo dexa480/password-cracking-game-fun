@@ -40,7 +40,7 @@ int main(){
     while(guess>=0){
         printf("pls write a 4-digit number\n");
         scanf("%d",&a);
-        if(a>=1000&&a=<9999){
+        if(a>=1000&&a<=9999){
 
             if(password==a){
                 printf("congrtulations this number is true\n");
@@ -60,3 +60,4 @@ int main(){
 
   return 0;
 }
+
